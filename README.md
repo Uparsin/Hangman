@@ -1,0 +1,2 @@
+# Hangman
+Typical beginner task
